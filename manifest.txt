@@ -1,0 +1,11 @@
+
+Project: AI Fitness Coach
+Includes:
+- ai_fitness_coach_frontend/
+- mia_backend_updated/
+- voice_routes.py
+- voice_service.py
+- workout_live.py
+- n8n_automation.json
+- Emotional memory and tag logic
+- Anniversary and attachment tracking
