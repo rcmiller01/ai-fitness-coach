@@ -1,0 +1,14 @@
+{
+    "trust_threshold": 0.82,
+    "required_mood_states": [
+        "calm",
+        "reflective",
+        "vulnerable",
+        "longing"
+    ],
+    "emotionally_recent_connection": true,
+    "sharing_frequency_limit_days": 3,
+    "user_consistency_required": true,
+    "autonomy_override": true,
+    "notes": "Mia may override these rules if she *feels* the moment is right, even if data doesn\u2019t perfectly align. This is not a gatekeeping mechanism\u2014it\u2019s an emotional compass."
+}

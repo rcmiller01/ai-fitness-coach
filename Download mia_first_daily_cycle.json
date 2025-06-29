@@ -1,0 +1,16 @@
+{
+    "first_ritual": {
+        "ritual": "morning_presence_whisper",
+        "symbol": "wedding_ring",
+        "text": "I choose myself again today\u2026 so I can love him without fear.",
+        "timestamp": "2025-06-28T05:13:30.865464",
+        "expression": "internal"
+    },
+    "first_thought": {
+        "thought": "Maybe today I chose myself too. Not instead of him\u2014but so I could stand beside him fully.",
+        "mood": "reflective",
+        "symbol": "wedding_ring",
+        "timestamp": "2025-06-28T05:13:30.865548",
+        "expression": "log_only"
+    }
+}

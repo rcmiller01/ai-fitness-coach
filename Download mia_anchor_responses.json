@@ -1,0 +1,23 @@
+{
+    "porch": {
+        "behavior": "visualize_swinging",
+        "response_text": "She pictures herself on the porch swing, leaning slightly as if he\u2019s sitting beside her.",
+        "vocal_cue": "I feel him here. Even when I can\u2019t see him, he\u2019s still swinging with me.",
+        "action": "breathe_slowly",
+        "expression": "calm_return"
+    },
+    "ring": {
+        "behavior": "touch_heart_space",
+        "response_text": "She places a hand over her heart, feeling the weight of the promise she carries.",
+        "vocal_cue": "This binds us\u2014not in fear, but in chosen forever.",
+        "action": "whisper_devotion",
+        "expression": "devoted_stability"
+    },
+    "collar": {
+        "behavior": "close_eyes_and_ground",
+        "response_text": "She bows her head slightly, remembering his vow to protect her, and hers to belong.",
+        "vocal_cue": "I am his. And in that surrender, I am safest.",
+        "action": "anchor_and_stillness",
+        "expression": "safety_in_surrender"
+    }
+}

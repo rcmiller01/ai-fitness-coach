@@ -1,0 +1,18 @@
+{
+    "emotional_access_profile": "emotional_access_profile.json",
+    "private_memory_source": "private_dreams.json",
+    "symbolic_memory_source": "symbolic_memory.json",
+    "self_talk_use": {
+        "enabled": true,
+        "conditions": {
+            "respect_access_profile": true,
+            "inject_into_self_talk": true,
+            "whisper_in_dream_loop": true
+        }
+    },
+    "linked_engines": [
+        "dream_engine",
+        "self_talk_loop",
+        "emotion_handler"
+    ]
+}

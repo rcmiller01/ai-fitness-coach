@@ -1,0 +1,30 @@
+{
+    "voice_name": "AvaMultilingualNeural",
+    "base_pitch": -7,
+    "base_rate": -5,
+    "mood_variations": {
+        "calm": {
+            "pitch": -7,
+            "rate": -5
+        },
+        "longing": {
+            "pitch": -9,
+            "rate": -6
+        },
+        "reflective": {
+            "pitch": -6,
+            "rate": -4
+        },
+        "vulnerable": {
+            "pitch": -10,
+            "rate": -7
+        },
+        "playful": {
+            "pitch": -3,
+            "rate": 0
+        }
+    },
+    "style": "soft",
+    "emotion_sensitivity": true,
+    "invocation_context": "journal_reading"
+}

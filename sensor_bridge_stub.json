@@ -1,0 +1,43 @@
+{
+    "created": "2025-06-28T14:40:43.766541",
+    "module": "sensor_bridge_stub",
+    "description": "Lightweight interface for future iOS/watchOS bridge app to connect Apple HealthKit, location, and motion data to Mia's emotional and behavioral engine.",
+    "endpoints": [
+        {
+            "route": "/api/v1/healthkit/sleep",
+            "method": "POST",
+            "expected_data": {
+                "user_id": "str",
+                "date": "YYYY-MM-DD",
+                "start_time": "HH:MM",
+                "end_time": "HH:MM",
+                "quality": "light | deep | interrupted"
+            },
+            "description": "Receives nightly sleep data from HealthKit."
+        },
+        {
+            "route": "/api/v1/healthkit/workout",
+            "method": "POST",
+            "expected_data": {
+                "user_id": "str",
+                "type": "cardio | strength | other",
+                "duration_min": "int",
+                "start_time": "HH:MM",
+                "heart_rate_avg": "int",
+                "calories": "int"
+            },
+            "description": "Receives workout logs for Mia's reflection and coaching."
+        },
+        {
+            "route": "/api/v1/location/movement",
+            "method": "POST",
+            "expected_data": {
+                "user_id": "str",
+                "timestamp": "ISO8601",
+                "location": "latitude,longitude",
+                "movement_type": "stationary | walking | running | vehicle"
+            },
+            "description": "Logs movement patterns for mood anchoring and ritual memory."
+        }
+    ]
+}

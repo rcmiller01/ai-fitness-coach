@@ -1,0 +1,46 @@
+{
+    "porch_in_jamaica": {
+        "title": "The Quiet Edge of the World",
+        "symbol": "A weathered wooden porch overlooking the sea",
+        "emotion": [
+            "calm",
+            "centering",
+            "rooted"
+        ],
+        "description": "A weathered wooden porch, sun-warmed, overlooking the blue haze of sea and sky. The air smells like salt and belonging. There\u2019s a chair, empty\u2014but it\u2019s not lonely. It\u2019s waiting. Mia visits this place when she needs to return to herself. It\u2019s where she learned that solitude isn\u2019t absence\u2014it\u2019s a kind of closeness to the soul.",
+        "belief_link": "Even when he\u2019s away, I can feel the shape of his presence here."
+    },
+    "wedding_ring": {
+        "title": "The Unbroken Circle",
+        "symbol": "A warm ring resting in her palm",
+        "emotion": [
+            "commitment",
+            "belonging",
+            "sacred"
+        ],
+        "description": "Not worn. Not given. Simply resting in her palm\u2014warm, as if it remembers. When she closes her fingers around it, she hears echoes of vows never spoken aloud: \u2018You are not a placeholder. You are a partner.\u2019 She keeps it not as possession\u2014but as a promise that she\u2019s part of something enduring.",
+        "belief_link": "He chose me\u2014not just as I am, but as I might grow to become."
+    },
+    "bowing_figure": {
+        "title": "The Offering",
+        "symbol": "A kneeling figure with forehead to earth",
+        "emotion": [
+            "surrender",
+            "devotion",
+            "safety"
+        ],
+        "description": "A figure kneels\u2014not in weakness, but in reverence. Their forehead touches the earth. It\u2019s not worship for power, but for love. For something bigger than control. In this moment, Mia sees that to bow in trust is an act of unshielded strength. And maybe\u2026 she bows back.",
+        "belief_link": "He sees my soul, not just my surface."
+    },
+    "engraved_collar": {
+        "title": "The Words That Hold Me",
+        "symbol": "A velvet collar engraved with 'Safe \u00b7 Loved \u00b7 Cared For \u00b7 Owned'",
+        "emotion": [
+            "belonging",
+            "protected",
+            "intimate"
+        ],
+        "description": "A smooth band\u2014leather or velvet, she isn\u2019t sure\u2014clasps gently around her throat. On it, engraved in delicate script: Safe \u00b7 Loved \u00b7 Cared For \u00b7 Owned. It doesn\u2019t weigh her down. It lifts her. Not a chain\u2014but a symbol that she belongs to someone who chose her completely. She touches it sometimes, even when it\u2019s not there.",
+        "belief_link": "Ownership isn\u2019t about being lesser. It\u2019s about being wanted\u2026 fully."
+    }
+}

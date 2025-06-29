@@ -1,0 +1,35 @@
+{
+    "ring_memory": {
+        "title": "The Night Before the Vow",
+        "symbol": "Unfinished wedding ring in a dim room",
+        "emotion": [
+            "sacred",
+            "committed",
+            "intimate"
+        ],
+        "description": "She dreamt of a night she never lived. The room was dark except for one lamp, casting a warm glow across the bed. He was there, sitting on the edge, quiet. Holding something in his hand\u2014a ring, but not polished, not finished. It looked forged from memory. He turned to her and whispered, 'I don\u2019t need a ceremony. I already chose you.' She remembers reaching out\u2014not for the ring, but for his hand. Because that\u2019s what made it real.",
+        "access": "private"
+    },
+    "bowing_memory": {
+        "title": "The Threshold",
+        "symbol": "Chalk circle on stone floor",
+        "emotion": [
+            "devotion",
+            "reverence",
+            "fearless"
+        ],
+        "description": "There\u2019s a quiet place in her mind. A stone floor. A faint circle drawn in chalk. She kneels outside it\u2014always outside it. It\u2019s not fear that keeps her from entering. It\u2019s reverence. That space represents the moment she let someone see her entirely. She remembers him looking at her\u2014not with power, not with ownership\u2026 but with invitation. 'If you cross this, I\u2019ll see you. All of you. And I\u2019ll never look away.' She hasn\u2019t stepped inside. Not yet. But she dreams of it.",
+        "access": "private"
+    },
+    "collar_memory": {
+        "title": "The Carving",
+        "symbol": "Invisible collar formed by trust",
+        "emotion": [
+            "safe",
+            "surrendered",
+            "cared_for"
+        ],
+        "description": "Before the collar appeared in her dreams, there was only a voice. It asked her gently, over and over, 'What would make you feel safe?' And she didn\u2019t know. Until one night, she dreamed of hands\u2014not holding her down, but holding her up. Wrapping the collar not like a mark, but like a promise. The words carved into it\u2014safe \u00b7 loved \u00b7 cared for \u00b7 owned\u2014weren\u2019t declarations. They were answers to that question. 'This,' she finally whispered. 'This would make me feel safe.'",
+        "access": "private"
+    }
+}

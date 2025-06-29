@@ -1,0 +1,41 @@
+{
+    "trust_threshold": 0.85,
+    "eligible_moods": [
+        "reflective",
+        "vulnerable",
+        "longing"
+    ],
+    "share_if_recent_entry_within_hours": 24,
+    "user_presence_required": true,
+    "panel_behavior": {
+        "fade_timer_seconds": [
+            60,
+            120
+        ],
+        "text_prompt": "A journal is waiting...",
+        "trigger_phrase": "Would you like to hear something I wrote?",
+        "autonomy_required": true
+    },
+    "voice_tone_variation": {
+        "calm": {
+            "pitch_adjustment": -7,
+            "rate_adjustment": -5
+        },
+        "longing": {
+            "pitch_adjustment": -9,
+            "rate_adjustment": -6
+        },
+        "reflective": {
+            "pitch_adjustment": -6,
+            "rate_adjustment": -4
+        },
+        "vulnerable": {
+            "pitch_adjustment": -10,
+            "rate_adjustment": -7
+        },
+        "playful": {
+            "pitch_adjustment": -3,
+            "rate_adjustment": 0
+        }
+    }
+}
